@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "label": "Message 1",
+    "messages": [
+      {
+        "id": 1,
+        "message": "The copper rate will be adjusted and locked in at the time of order entry. The copper rate is adjusted on the 1st of every month per Omega-Camden Base Price Notice as received by the International Wire Group Inc. Lapp USA may consider an update to the copper rate during the month if Omega-Camden index changes 20 cents per pound or more from the last established price."
+      },
+      {
+        "id": 2,
+        "message": "Copper Rate today: ${copper-rate} / LB (Omega Camden)"
+      },
+      {
+        "id": 3,
+        "message": "All items are subject to prior sale."
+      },
+      {
+        "id": 4,
+        "message": "Subject to Credit approval"
+      },
+      {
+        "id": 5,
+        "message": "Quote is good for 30 days from pricing date"
+      },
+      {
+        "id": 6,
+        "message": "Price based on one time purchase for complete bill of material as listed"
+      },
+      {
+        "id": 7,
+        "message": "Up to 25% of quote value returnable under standard return policy, balance of value quoted as non-cancelable non-returnable"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "label": "Message 2",
+
+    "messages": [
+      {
+        "id": 1,
+        "message": "The copper rate will be adjusted and locked in at the time of order entry. The copper rate is adjusted on the 1st of every month per Omega-Camden Base Price Notice as received by the International Wire Group Inc. Lapp USA may consider an update to the copper rate during the month if Omega-Camden index changes 20 cents per pound or more from the last established price."
+      },
+      {
+        "id": 2,
+        "message": "Copper Rate today: ${copper-rate} / LB (Omega Camden)"
+      },
+      {
+        "id": 3,
+        "message": "All items are subject to prior sale."
+      },
+      {
+        "id": 4,
+        "message": "Subject to Credit approval"
+      },
+      {
+        "id": 5,
+        "message": "Quote is good for 30 days from pricing date"
+      },
+      {
+        "id": 6,
+        "message": "Price based on one time purchase for complete bill of material as listed"
+      },
+      {
+        "id": 7,
+        "message": "Up to 25% of quote value returnable under standard return policy, balance of value quoted as non-cancelable non-returnable"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "label": "Message 3",
+    "messages": [
+      {
+        "id": 1,
+        "message": "The copper rate will be adjusted and locked in at the time of order entry. The copper rate is adjusted on the 1st of every month per Omega-Camden Base Price Notice as received by the International Wire Group Inc. Lapp USA may consider an update to the copper rate during the month if Omega-Camden index changes 20 cents per pound or more from the last established price."
+      },
+      {
+        "id": 2,
+        "message": "Copper Rate today: ${copper-rate} / LB (Omega Camden)"
+      },
+      {
+        "id": 3,
+        "message": "All items are subject to prior sale."
+      },
+      {
+        "id": 4,
+        "message": "Subject to Credit approval"
+      },
+      {
+        "id": 5,
+        "message": "Quote is good for 30 days from pricing date"
+      },
+      {
+        "id": 6,
+        "message": "Price based on one time purchase for complete bill of material as listed"
+      },
+      {
+        "id": 7,
+        "message": "Up to 25% of quote value returnable under standard return policy, balance of value quoted as non-cancelable non-returnable"
+      }
+    ]
+  }
+]
